@@ -7,6 +7,7 @@ namespace CleanArchMvc.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+
     public class ProductsController : ControllerBase
     {
         private readonly IProductService _productService;

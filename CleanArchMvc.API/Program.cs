@@ -11,6 +11,9 @@ namespace CleanArchMvc.API
 
             builder.Services.AddControllers();
             builder.Services.AddInfrastructureAPI(builder.Configuration);
+            //ativar a autenticação e validar o token
+            builder.Services.AddInfrastructureJWT(builder.Configuration);
+            builder.Services.AddInfrastructureSwagger();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
@@ -25,7 +28,7 @@ namespace CleanArchMvc.API
             }
 
             app.UseHttpsRedirection();
-
+            app.UseStatusCodePages();
             app.UseAuthorization();
 
 
