@@ -30,13 +30,23 @@ Para aproveitar ao máximo este repositório e o curso associado, é recomendáv
 Se você tiver dúvidas específicas sobre o conteúdo do curso ou encontrar problemas técnicos relacionados a este repositório, sinta-se à vontade para abrir uma issue. Faremos o possível para fornecer suporte e assistência adequados.
 
 ## Avisos Legais
+Esse projeto está sob a licença MIT.
 
-Este repositório é destinado apenas para fins educacionais e de aprendizado. O código aqui fornecido é para fins ilustrativos e pode não ser adequado para uso em produção sem modificações adicionais. Consulte sempre as diretrizes de segurança e as melhores práticas ao desenvolver software.
-
-## Agradecimentos
-
-Agradecemos a Macoratti por fornecer um curso abrangente e informativo sobre Arquitetura Limpa, e a todos os contribuidores que ajudaram a enriquecer este repositório.
-
+⚙️ Tecnologias
+C#, HTML5, CSS3 e Javascript
+ASP.NET Core
+Padrão de projeto MVC (Model-View-Controller) com Repository e Clean Architecture
+ORM (Object-Relational Mappers) Entity Framework Core
+DDD (Domain-Driven Design)
+Identity
+AutoMapper e DTO (Data Transfer Object)
+Handlers CQRS (Command Query Responsibility Segregation)
+WebAPI via Swagger UI com autenticação JWT (JSON Web Token)
+Testes de Unidade com XUnit
+🛠️ Ferramentas
+Microsoft Visual Studio 2022
+Microsoft SQL Server
+Git
 ## Notas Finais
 
 Esperamos que este repositório seja útil e que contribua para o seu aprendizado e desenvolvimento como profissional de software. Parabéns por concluir esta jornada de estudo sobre Arquitetura Limpa!
