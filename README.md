@@ -32,21 +32,21 @@ Se você tiver dúvidas específicas sobre o conteúdo do curso ou encontrar pro
 ## Avisos Legais
 Esse projeto está sob a licença MIT.
 
-⚙️ Tecnologias
-C#, HTML5, CSS3 e Javascript
-ASP.NET Core
-Padrão de projeto MVC (Model-View-Controller) com Repository e Clean Architecture
-ORM (Object-Relational Mappers) Entity Framework Core
-DDD (Domain-Driven Design)
-Identity
-AutoMapper e DTO (Data Transfer Object)
-Handlers CQRS (Command Query Responsibility Segregation)
-WebAPI via Swagger UI com autenticação JWT (JSON Web Token)
-Testes de Unidade com XUnit
-🛠️ Ferramentas
-Microsoft Visual Studio 2022
-Microsoft SQL Server
-Git
+## Tecnologias
+  C#, HTML5, CSS3 e Javascript
+  ASP.NET Core
+  Padrão de projeto MVC (Model-View-Controller) com Repository e Clean Architecture
+  ORM (Object-Relational Mappers) Entity Framework Core
+  DDD (Domain-Driven Design)
+  Identity
+  AutoMapper e DTO (Data Transfer Object)
+  Handlers CQRS (Command Query Responsibility Segregation)
+  WebAPI via Swagger UI com autenticação JWT (JSON Web Token)
+  Testes de Unidade com XUnit
+## Ferramentas
+  Microsoft Visual Studio 2022
+  Microsoft SQL Server
+  Git
 ## Notas Finais
 
 Esperamos que este repositório seja útil e que contribua para o seu aprendizado e desenvolvimento como profissional de software. Parabéns por concluir esta jornada de estudo sobre Arquitetura Limpa!
